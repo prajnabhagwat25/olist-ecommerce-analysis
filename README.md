@@ -18,7 +18,7 @@ the business should focus to fix it.
 
 ## Dataset
 - Source: [Olist Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-- 9 tables, 100,000+ orders, Oct 2016 – Sep 2018
+- 9 tables, 96,000+ orders, Oct 2016 – Sep 2018
 
 ## Key Findings
 1. Late deliveries score 40% lower on satisfaction (2.5 vs 4.2 stars)

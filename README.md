@@ -3,7 +3,7 @@
 
 ## Project Overview
 Analyzed 9 datasets from Olist, a Brazilian e-commerce marketplace,
-covering 100,000+ orders from October 2016 to September 2018.
+covering 96,000+ orders from October 2016 to September 2018.
 Built a complete analytical pipeline from raw data to interactive dashboard.
 
 ## Business Problem
